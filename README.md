@@ -8,8 +8,7 @@ A Colombian living and working in Texas. I’m a self taught front end developer
 I just left my job as a user interface engineer in finance to focus full time on learning modern technologies and hopefully find a new gig as a front end React dev. 
 
 
-<div><img width=50%"  src="https://img.buzzfeed.com/buzzfeed-static/static/2014-04/tmp/webdr02/3/11/a72d277fcc18112018e393946827bf97-12.jpg?output-format=auto&output-quality=auto"/></div>
-
+![](https://img.buzzfeed.com/buzzfeed-static/static/2014-04/tmp/webdr02/3/11/a72d277fcc18112018e393946827bf97-12.jpg)
 ## JIC ⚡
 - Taurus 🌞, Aquarius 🌚, Scorpio ☝
 - Read 4 books so far this year
