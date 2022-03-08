@@ -11,11 +11,7 @@ I just left my job as a user interface engineer in finance to focus full time on
 ![](https://img.buzzfeed.com/buzzfeed-static/static/2014-04/tmp/webdr02/3/11/a72d277fcc18112018e393946827bf97-12.jpg)
 ## JIC ⚡
 - Taurus 🌞, Aquarius 🌚, Scorpio ☝
-- Read 4 books so far this year
-- Photoshop user since I was 14
 - Myer-Briggs Pesonality type: INTJ-T 
-- Designing: for 20 years
-- Coding: for 7 years (Learned Ruby first, learning React now)
 
 
 
