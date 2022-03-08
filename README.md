@@ -15,7 +15,7 @@ I just left my job as a user interface engineer in finance to focus full time on
 - Photoshop user since I was 14
 - Myer-Briggs Pesonality type: INTJ-T 
 - Designing: for 20 years
-- Coding: for 7 years (Ruby was my first language, React is my latest)
+- Coding: for 7 years (Learned Ruby first, learning React now)
 
 
 
