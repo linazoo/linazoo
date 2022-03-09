@@ -12,6 +12,7 @@ I just left my job as a user interface engineer in finance to focus full time on
 ## JIC ⚡
 - Taurus 🌞, Aquarius 🌚, Scorpio ☝
 - Myer-Briggs Pesonality type: INTJ-T 
+- Hobbies: books, art history, gym, cooking, plants, acrylic painting, coding...
 
 
 
