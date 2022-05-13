@@ -12,8 +12,6 @@ I'm currently looking for a new role as a front end React developer.
 ## JIC ⚡
 - Taurus 🌞, Aquarius 🌚, Scorpio ☝
 - Myer-Briggs Pesonality type: INTJ-T 
-- Hobbies: community organizing, books, art history, gym, cooking, plants, acrylic painting, bird watching, huskies +
-
-
+- I'm into rice, design, code, community organizing, books, art history, gym, cooking, plants, acrylic painting, bird watching, huskies +
 
 
